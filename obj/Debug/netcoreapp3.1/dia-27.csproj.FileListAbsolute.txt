@@ -1,0 +1,13 @@
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.exe
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.deps.json
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.runtimeconfig.json
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.runtimeconfig.dev.json
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.dll
+C:\Users\288\Desktop\atv dia 27\dia-27\bin\Debug\netcoreapp3.1\dia-27.pdb
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.csprojAssemblyReference.cache
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.AssemblyInfoInputs.cache
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.AssemblyInfo.cs
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.csproj.CoreCompileInputs.cache
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.dll
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.pdb
+C:\Users\288\Desktop\atv dia 27\dia-27\obj\Debug\netcoreapp3.1\dia-27.genruntimeconfig.cache
